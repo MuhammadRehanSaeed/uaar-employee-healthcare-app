@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78206841464",
+    "project_id": "uaaremployeehealthcare-80013",
+    "storage_bucket": "uaaremployeehealthcare-80013.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78206841464:android:6d21c5bc3c9d6dec71738d",
+        "android_client_info": {
+          "package_name": "com.example.uaaremployee.employeehealthcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz71IqsyIIonsoTp_qPI4jEwFhchZz8mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
